@@ -28,6 +28,6 @@ Ao final deve se exibir uma mensagem:
 -------------------------------------------------------
 
 # Olá 😊
-Meu nome é Carla, estou iniciando em programação e fiz este programa em Java que solicita ao usuário o nome e o nível de experiência de um herói. Com base no XP inserido, ele determina o nível do herói, que varia de Ferro a Radiante. O usuário pode repetir o processo ou sair do programa conforme desejar.
+Meu nome é Carla, estou iniciando em programação e fiz este código em Java que solicita ao usuário o nome e o nível de experiência de um herói. Com base no XP inserido, ele determina o nível do herói, que varia de Ferro a Radiante. O usuário pode repetir o processo ou sair do programa conforme desejar.
 
 #### 💕Obrigada pela atenção 💕
